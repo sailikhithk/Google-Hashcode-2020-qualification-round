@@ -12,6 +12,4 @@ Total theoretical max | 1,505,004,616
 Total Loss | 292
 
 There are two solvers, solver/sorting.py and solver/knapsack.py.   
-When the memory footprint needed for using the Knapsack solver exceeds 8GB of RAM, the simple sorting solver is being used. This optimizes the solutions for small inputs like input/a_example.in, input/b_small.in and input/c_medium.in.
-
-Any suggestions for other solvers with better scoring for the big inputs, D and E, are welcome.
+When the memory footprint needed for using the Knapsack solver exceeds 8GB of RAM, the simple sorting solver is being used. This optimizes the solutions for small inputs like input/a_example.in, input/b_small.in and input/c_medium.in
