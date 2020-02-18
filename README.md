@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/SaiLikhith7/Google-Hashcode-2020-qualification-round) 
+
 # Google Hashcode 2020 - Practice Round - More Pizza
 ## Score
 Input | Score
